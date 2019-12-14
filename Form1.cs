@@ -92,7 +92,6 @@ namespace Lab4b
         {
             try
             {
-                //loadToolStripMenuItem1.Enabled = false;
                 checkTagsToolStripMenuItem.Enabled = false;
                 label.Text = "";
                 listBox.Items.Clear();
